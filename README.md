@@ -37,10 +37,12 @@ text## 🚀 Como rodar localmente
 ### Backend (FastAPI)
 
 1. Crie e ative um ambiente virtual (recomendado):
+   # Linux/Mac
    python -m venv venv
-   source venv/bin/activate    # Linux/Mac
-   # ou
-   venv\Scripts\activate      # Windows
+   source venv/bin/activate    
+   #ou
+   # Windows
+   venv\Scripts\activate      
 
 Instale as dependências:
 pip install fastapi uvicorn requests
