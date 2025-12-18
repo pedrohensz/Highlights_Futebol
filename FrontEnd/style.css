@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+}
+#titulo{
+    
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    font-family: Verdana;
+    background-color: rgb(8, 88, 141);
+    border: none;
+    outline: none;
+
+    padding: 0;
+}
+
+#attBtn{
+font-size: 2em;
+padding: 5px;
+border-radius: 5px;
+color: white;
+background-color: rgb(65, 194, 65);
+text-align: center;
+align-items: center;
+font-family: Verdana;
+cursor:pointer;
+}
+
+#attBtn:hover{
+    background-color:rgb(72, 214, 72); ;
+}
+
+
+.post-item{
+    border-radius: 20px;
+    background-color: rgb(172, 174, 172);
+    font-family: verdana;}
