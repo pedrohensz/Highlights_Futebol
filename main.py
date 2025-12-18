@@ -14,6 +14,10 @@ app.add_middleware(
     allow_methods=["*"],  
     allow_headers=["*"],)
 
+@app.get("/")
+def health():
+    return {"status": "ok"}
+
 @app.get("/Gols")
 def ver_gols():
     response = requests.get(url)
