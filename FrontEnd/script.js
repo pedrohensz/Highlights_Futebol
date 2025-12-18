@@ -1,5 +1,5 @@
 
-const API = "http://127.0.0.1:8000";
+const API = "https://highlightsfutebol-production.up.railway.app";
 const attBtn = document.getElementById("attBtn")
 async function carregarGols() {
     try {
