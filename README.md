@@ -40,7 +40,6 @@ text## 🚀 Como rodar localmente
    # Linux/Mac
    python -m venv venv
    source venv/bin/activate    
-   #ou
    # Windows
    venv\Scripts\activate      
 
@@ -66,8 +65,8 @@ Aceito Sugestões
 
 👤 Autor
 Pedro Henrique (pedrohensz)
+
 Dúvidas, sugestões ou contribuições? Abra uma issue ou entre em contato!
 
 Aproveite os gols mais bonitos do planeta! ⚽
-textPronto! É só salvar esse conteúdo como `README.md` no seu repositório. Fica bonito no GitHub e deixa o projeto bem documentado. 
 
